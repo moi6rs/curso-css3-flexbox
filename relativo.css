@@ -1,0 +1,29 @@
+.verde {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    z-index: 10;
+}
+
+.rojo {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+.azul {
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+    color: #fff;
+    text-align: center;
+}
