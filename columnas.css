@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.menu{
+    text-align: center;
+}
+.nav{
+    float: left;
+    width: 70%;
+}
+.logo{
+    background-color: blueviolet;
+    float: left;
+    width: 30%;
+}
+.columnas{
+    background-color: yellow;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+.columnasx3{
+    background-color: #994D7D;
+    width: 25%;
+    height: 100px;
+    float: left;
+    padding: 10%;
+    border: 2px #000 solid;
+
+}
+
+footer{
+    background-color: #CC1488;
+}
