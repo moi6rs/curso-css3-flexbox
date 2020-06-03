@@ -4,20 +4,17 @@
     background-color: green;
     color: #fff;
     text-align: center;
-    position: relative;
+    position: absolute;
     top: 100px;
-    left: 100px;
-    z-index: 10;
+    left: 400px;
 }
 
 .rojo {
     width: 200px;
-    height: 100px;
+    height: 400px;
     background-color: red;
     color: #fff;
     text-align: center;
-    position: relative;
-    z-index: 1;
 }
 
 .azul {
