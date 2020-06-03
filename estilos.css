@@ -1,3 +1,8 @@
-p{
+.rojo{
    color: red; 
+}
+
+.azul{
+    color: blue;
+    font-size: 100px;
 }
