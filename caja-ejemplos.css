@@ -1,0 +1,27 @@
+.caja-1{
+    border: 2px #000 solid;
+    width: 100px;
+    height: 100px;
+    margin: 10px 0;
+    float: left;
+}
+
+.caja-2{
+    border: 2px #000 solid;
+    width: 100px;
+    height: 100px;
+    margin: 10px 0;
+    float: left;
+}
+
+.caja-3{
+    border: 2px #000 solid;
+    width: 100px;
+    height: 100px;
+    margin: 10px 0;
+    float: right;
+}
+
+.titulo{
+    clear: both;
+}
