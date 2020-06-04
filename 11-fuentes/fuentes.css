@@ -1,0 +1,15 @@
+h1{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h2{
+    font-family: 'Lexend Tera', sans-serif;
+}
+
+@font-face{
+    font-family: noto_sans_tc;
+    src: url(fuente/NotoSansTC-Regular.otf);
+}
+p{
+    font-family: noto_sans_tc;
+}
