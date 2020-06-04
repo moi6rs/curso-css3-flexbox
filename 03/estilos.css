@@ -1,0 +1,18 @@
+.rojo{
+   color: red;
+   /*background: blue; */
+}
+
+/*estilos para azul*/
+.azul{
+    color:rgb(210,105,30);
+    font-size: 20px;
+    /*background: navajowhite;*/
+}
+
+.divisor{
+    background: chartreuse;
+}
+footer{
+    background: rosybrown;
+}
